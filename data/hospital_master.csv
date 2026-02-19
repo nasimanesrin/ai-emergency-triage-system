@@ -1,0 +1,13 @@
+hospital_id,hospital_name,area,distance_km,specialty,total_beds,available_beds,icu_available,load_level
+1,City Hospital,Downtown,2.5,General,150,20,Yes,High
+H001,City General Hospital,Center,5.2,General,200,45,1,Medium
+H002,Metro Trauma Care,North,8.5,Trauma,150,10,1,High
+H003,Heart Care Institute,East,12.0,Cardiac,120,30,1,Medium
+H004,Community Clinic,West,3.1,General,80,25,0,Low
+H005,Central ICU Hospital,South,6.7,ICU,100,5,1,High
+H006,Green Valley Hospital,North,10.4,General,180,60,0,Low
+H007,LifeLine Trauma Center,East,15.2,Trauma,140,20,1,Medium
+H008,Prime Cardiac Hospital,Center,4.8,Cardiac,110,15,1,Medium
+H009,Sunrise Multi-Specialty,South,9.3,General,220,90,1,Low
+H010,RiverSide Emergency Care,West,7.6,Trauma,160,35,1,Medium
+
